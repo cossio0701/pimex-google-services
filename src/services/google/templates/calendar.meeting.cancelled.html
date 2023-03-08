@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      font-family: 'Roboto', sans-serif;
+      color: #34495e;
+    }
+
+    body {
+      margin: 15px;
+    }
+
+    .response-body {
+      margin: 15px 0;
+    }
+
+    .response-body .response-head {
+      display: flex;
+      margin-bottom: 15px;
+      align-items: center;
+    }
+
+    .response-body .response-head img {
+      height: 75px;
+      width: 75px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin: 0 15px;
+    }
+
+    .response-body .response-head .response-title {
+      font-size: 24px;
+      font-weight: 600;
+    }
+
+    .response-body p {
+      margin-bottom: 15px;
+    }
+
+    .response-footer {
+      display: flex;
+      flex-direction: column;
+      margin-top: 30px;
+    }
+
+    .response-footer strong {
+      margin-bottom: 15px;
+    }
+
+    .response-footer p {
+      margin-bottom: 15px;
+    }
+
+    .response-footer small {
+      text-align: center;
+      font-size: 12px;
+    }
+
+    .response-footer small p {
+      color: #999;
+    }
+
+    .response-footer small a {
+      color: #888;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="response-body">
+    <div class="response-head">
+      <img src="{{IMAGE_URL}}" alt="{{BOARD_NAME}}_thumbnail" />
+      <div class="response-title">Hola {{NAME}}, se ha cancelado tu cita</div>
+    </div>
+    <p>
+      Nulla ullamcorper euismod velit. <strong>{{MEETING_DATE}}</strong>,
+      pretium sit amet faucibus eu, posuere nec nisi.
+    </p>
+    <p>
+      Vivamus eget orci vulputate, placerat ipsum ut, suscipit lorem. Ut quis
+      convallis est. Sed facilisis rhoncus libero commodo bibendum.
+    </p>
+  </div>
+  <div class="response-footer">
+    <strong>Customer service manager</strong>
+    <p>{{BOARD_NAME}}</p>
+    <small>
+      <p>Powered by <a target="_blank" href="https://es.pimex.co/">Pimex</a></p>
+    </small>
+  </div>
+</body>
+
+</html>

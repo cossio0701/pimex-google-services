@@ -1,0 +1,258 @@
+[
+  {
+    "icon": "anchor",
+    "name": "Ancla"
+  },
+  {
+    "icon": "apple-alt",
+    "name": "Manzana"
+  },
+  {
+    "icon": "atom",
+    "name": "Atomo"
+  },
+  {
+    "icon": "basketball-ball",
+    "name": "Balón"
+  },
+  {
+    "icon": "bicycle",
+    "name": "Bicicleta"
+  },
+  {
+    "icon": "biohazard",
+    "name": "Veneno"
+  },
+  {
+    "icon": "bomb",
+    "name": "Bomba"
+  },
+  {
+    "icon": "bone",
+    "name": "Hueso"
+  },
+  {
+    "icon": "bowling-ball",
+    "name": "Bolos"
+  },
+  {
+    "icon": "broom",
+    "name": "Escoba"
+  },
+  {
+    "icon": "bug",
+    "name": "Escarabajo"
+  },
+  {
+    "icon": "candy-cane",
+    "name": "Caramelo"
+  },
+  {
+    "icon": "car",
+    "name": "Carro"
+  },
+  {
+    "icon": "cat",
+    "name": "Gato"
+  },
+  {
+    "icon": "cheese",
+    "name": "Queso"
+  },
+  {
+    "icon": "chess-knight",
+    "name": "Caballo"
+  },
+  {
+    "icon": "chess-queen",
+    "name": "Reina"
+  },
+  {
+    "icon": "cloud-moon",
+    "name": "Luna"
+  },
+  {
+    "icon": "cocktail",
+    "name": "Coctel"
+  },
+  {
+    "icon": "coffee",
+    "name": "Café"
+  },
+  {
+    "icon": "cookie-bite",
+    "name": "Galleta"
+  },
+  {
+    "icon": "crow",
+    "name": "Cuervo"
+  },
+  {
+    "icon": "dice",
+    "name": "Dado"
+  },
+  {
+    "icon": "dog",
+    "name": "Perro"
+  },
+  {
+    "icon": "dragon",
+    "name": "Dragón"
+  },
+  {
+    "icon": "eye",
+    "name": "Ojo"
+  },
+  {
+    "icon": "feather",
+    "name": "Pluma"
+  },
+  {
+    "icon": "fighter-jet",
+    "name": "Jet"
+  },
+  {
+    "icon": "fish",
+    "name": "Pez"
+  },
+  {
+    "icon": "flask",
+    "name": "Frasco"
+  },
+  {
+    "icon": "football-ball",
+    "name": "Balón"
+  },
+  {
+    "icon": "frog",
+    "name": "Rana"
+  },
+  {
+    "icon": "ghost",
+    "name": "Fantasma"
+  },
+  {
+    "icon": "guitar",
+    "name": "Guitarra"
+  },
+  {
+    "icon": "hamburger",
+    "name": "Hamburguesa"
+  },
+  {
+    "icon": "hat-wizard",
+    "name": "Sombrero"
+  },
+  {
+    "icon": "heart",
+    "name": "Corazón"
+  },
+  {
+    "icon": "headphones-alt",
+    "name": "Auriculares"
+  },
+  {
+    "icon": "helicopter",
+    "name": "Helicóptero"
+  },
+  {
+    "icon": "hippo",
+    "name": "Hipopotamo"
+  },
+  {
+    "icon": "horse",
+    "name": "Caballo"
+  },
+  {
+    "icon": "hotdog",
+    "name": "Hotdog"
+  },
+  {
+    "icon": "ice-cream",
+    "name": "Helado"
+  },
+  {
+    "icon": "kiwi-bird",
+    "name": "Pájaro"
+  },
+  {
+    "icon": "laugh-beam",
+    "name": "Emote"
+  },
+  {
+    "icon": "leaf",
+    "name": "Hoja"
+  },
+  {
+    "icon": "lemon",
+    "name": "Limón"
+  },
+  {
+    "icon": "meteor",
+    "name": "Meteoro"
+  },
+  {
+    "icon": "moon",
+    "name": "Luna"
+  },
+  {
+    "icon": "motorcycle",
+    "name": "Motocicleta"
+  },
+  {
+    "icon": "otter",
+    "name": "Nutria"
+  },
+  {
+    "icon": "pastafarianism",
+    "name": "Alien"
+  },
+  {
+    "icon": "pepper-hot",
+    "name": "Jalapeño"
+  },
+  {
+    "icon": "pizza-slice",
+    "name": "Pizza"
+  },
+  {
+    "icon": "plane",
+    "name": "Avión"
+  },
+  {
+    "icon": "robot",
+    "name": "Robot"
+  },
+  {
+    "icon": "rocket",
+    "name": "Cohete"
+  },
+  {
+    "icon": "skull",
+    "name": "Calavera"
+  },
+  {
+    "icon": "spider",
+    "name": "Araña"
+  },
+  {
+    "icon": "star",
+    "name": "Estrella"
+  },
+  {
+    "icon": "tint",
+    "name": "Gota"
+  },
+  {
+    "icon": "toilet",
+    "name": "Hinodoro"
+  },
+  {
+    "icon": "tree",
+    "name": "Árbol"
+  },
+  {
+    "icon": "volleyball-ball",
+    "name": "Balón"
+  }
+]

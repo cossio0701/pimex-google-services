@@ -1,0 +1,12 @@
+runtime: nodejs14
+service: pmxs-core
+
+automatic_scaling:
+  max_instances: 2
+  target_cpu_utilization: 0.8
+
+handlers:
+- url: /.*
+  script: auto
+  secure: always
+  redirect_http_response_code: 301
